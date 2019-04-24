@@ -1,6 +1,6 @@
 # happy-gitting
 
-##Sample change
+## Sample change
 ## How to use this
 
 Try out git and all that
