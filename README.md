@@ -1,6 +1,6 @@
 # happy-gitting
 
-##All gitters should be **happy!**
+## All gitters should be **happy!**
 
 ... and do some boxing
 
