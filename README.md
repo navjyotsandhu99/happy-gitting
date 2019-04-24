@@ -1,6 +1,11 @@
 # happy-gitting
 
-##Sample change
+##All gitters should be **happy!**
+
+... and do some boxing
+
+![](kangaroo-opponent.jpg)
+
 ## How to use this
 
 Try out git and all that
