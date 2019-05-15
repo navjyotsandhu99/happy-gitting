@@ -1,9 +1,5 @@
 ## All gitters should be **happy!**
 
-... and do some boxing
-
-![](kangaroo-opponent.jpg)
-
 This is a repo for testing
 
 Try out git and all that
