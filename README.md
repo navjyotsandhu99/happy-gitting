@@ -1,5 +1,7 @@
 # happy-gitting
 
+This is a repo for testing
+
 ## Sample change
 ## How to use this
 
